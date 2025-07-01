@@ -34,7 +34,6 @@ Security hub
 Elastic Container Service for Kubernetes
 X-Ray
 EC2-Other
-![image](https://github.com/user-attachments/assets/8ca8d55b-bf57-4e9f-ba4d-1621221927ee)
 
 
 # 🚦 Prerequisites
