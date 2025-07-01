@@ -2,6 +2,41 @@
 A robust Python tool to extract detailed information from 25+ AWS services and export everything to a professionally formatted Excel workbook.
 Supports manual AWS profile selection, multi-region support, and is ideal for security reviews, audits, and cloud posture assessments.
 
+Service list:
+Ec2 
+QuickSight
+Elastic Load Balancing
+Elastic Container Service
+DocumentDB
+Elastic Container Service for Kubernetes
+Textract
+Rekognition
+Key Management Service
+Bedrock
+CloudTrail
+Systems Manager
+GuardDuty
+API Gateway
+Data Transfer
+CloudFormation
+Location Service
+Neptune
+Service Catalog
+AWS Glue 
+CodeArtifact
+Dynamo DB 
+Memory DB
+VPC 
+Sage  Maker 
+Elastic File System
+OpenSearch Service
+Security hub 
+Elastic Container Service for Kubernetes
+X-Ray
+EC2-Other
+![image](https://github.com/user-attachments/assets/8ca8d55b-bf57-4e9f-ba4d-1621221927ee)
+
+
 # 🚦 Prerequisites
 Python 3.8+
 
