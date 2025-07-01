@@ -1,4 +1,3 @@
-AWS Comprehensive Resource Extractor
 A robust Python tool to extract detailed information from 25+ AWS services and export everything to a professionally formatted Excel workbook.
 Supports manual AWS profile selection, multi-region support, and is ideal for security reviews, audits, and cloud posture assessments.
 
@@ -72,5 +71,7 @@ A: The script will log the error and continue. Make sure your AWS profile has th
 Q: Can I add more services?
 A: Yes! The script is modular. Add your extraction logic and register it in the main extraction list.
 
+🤝 Contact
+For questions, suggestions, or support, open an issue or contact 1o1swapnilk@gmail.com.
 
 Star this repo if you find it useful! ⭐
