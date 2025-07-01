@@ -2,17 +2,17 @@
 A robust Python tool to extract detailed information from 25+ AWS services and export everything to a professionally formatted Excel workbook.
 Supports manual AWS profile selection, multi-region support, and is ideal for security reviews, audits, and cloud posture assessments.
 
-🚦 Prerequisites
+# 🚦 Prerequisites
 Python 3.8+
+
 Make sure you have Python 3.8 or newer installed.
 Check your version:
-bash
-Copy Code
+
 python --version
+
 Virtual Environment (Recommended)
 Create and activate a virtual environment to keep dependencies isolated:
-bash
-Copy Code
+
 python -m venv venv
 # On Windows:
 venv\Scripts\activate
