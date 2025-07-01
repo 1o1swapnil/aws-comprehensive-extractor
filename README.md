@@ -1,4 +1,4 @@
-AWS Comprehensive Resource Extractor
+# AWS Comprehensive Resource Extractor
 A robust Python tool to extract detailed information from 25+ AWS services and export everything to a professionally formatted Excel workbook.
 Supports manual AWS profile selection, multi-region support, and is ideal for security reviews, audits, and cloud posture assessments.
 
