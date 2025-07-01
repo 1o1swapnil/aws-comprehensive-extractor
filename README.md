@@ -14,14 +14,17 @@ Virtual Environment (Recommended)
 Create and activate a virtual environment to keep dependencies isolated:
 
 python -m venv venv
-# On Windows:
+
+On Windows:
 venv\Scripts\activate
-# On macOS/Linux:
+
+On macOS/Linux:
 source venv/bin/activate
+
 AWS CLI Configured
+
 You must have the AWS CLI installed and at least one profile configured:
-bash
-Copy Code
+
 aws configure --profile my-aws-profile
 The script uses your AWS CLI credentials and profiles for authentication.
 📦 Installation
