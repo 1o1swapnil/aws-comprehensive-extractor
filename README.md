@@ -66,7 +66,7 @@ The script uses your AWS CLI credentials and profiles for authentication.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/aws-comprehensive-extractor.git
+git clone https://github.com/1o1swapnil/aws-comprehensive-extractor.git
 
 cd aws-comprehensive-extractor
 
